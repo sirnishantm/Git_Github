@@ -9,7 +9,7 @@ An interactive web-based fireworks animation program built for the Git & GitHub 
 ## 👋 About This Project
 
 **Created by:** `Nishant Mishra`  
-**GitHub:** 'sirnishantm'
+**GitHub:** `sirnishantm`
 
 ``
 
